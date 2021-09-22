@@ -93,7 +93,12 @@ SESのように1名でどこかに派遣、などではないです。
 
 https://form.run/@asaburo-recruit-2021-summer
 
-エントリーの前にこの募集概要と募集にあたって記載したnoteを確認してからご応募ください。
+エントリーの前にこの募集概要と募集にあたって記載した以下noteを確認してからご応募ください。
+
+https://note.com/ikedanoda/n/ne78ffae198f9 <br>
+https://note.com/ikedanoda/n/nb0525bc7fc07 <br>
+https://note.com/ikedanoda/n/n8c64d152a390
+
 
 ### 2. サウナ好きチェック & 提出してもらったコード・サービスチェック
 フォームより提出してもらった内容をもとにアサブロ社で選考を行います。
